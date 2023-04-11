@@ -1,0 +1,16 @@
+{
+  "tokens": [
+    {
+      "name": "Wave",
+      "symbol": "WV",
+      "address": "0xa38bBf0931518E59A1a280d9e8974BeD21a79F3B",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+    },
+    {
+      "name": "Binance",
+      "symbol": "BNB",
+      "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+      "logoURI": "/BNBtoken.png"
+    }
+  ]
+}
