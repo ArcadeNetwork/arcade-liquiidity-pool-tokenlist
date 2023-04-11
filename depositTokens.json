@@ -26,6 +26,13 @@
       "decimals": 0,
       "isWhitelisted": false,
       "logoURI": "https://tokens.pancakeswap.finance/images/0xBc7d6B50616989655AfD682fb42743507003056D.png"
+    },
+    {
+      "name": "Binance",
+      "symbol": "BNB",
+      "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+      "decimals": 18,
+      "logoURI": "/BNBtoken.png"
     }
   ]
 }
