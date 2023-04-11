@@ -1,0 +1,31 @@
+{
+  "tokens": [
+    {
+      "name": "Wave",
+      "symbol": "WV",
+      "address": "0xa38bBf0931518E59A1a280d9e8974BeD21a79F3B",
+      "chainId": 56,
+      "decimals": 0,
+      "isWhitelisted": true,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+    },
+    {
+      "name": "Armageddon",
+      "symbol": "ARM",
+      "address": "0x9C41f0b4d7b6A32327493FB2414aC2432eBcff47",
+      "chainId": 56,
+      "decimals": 0,
+      "isWhitelisted": false,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xFeea0bDd3D07eb6FE305938878C0caDBFa169042.png"
+    },
+    {
+      "name": "LEXUS",
+      "symbol": "LEX",
+      "address": "0x84f8F254FF5eA8F9bB7Fb35D404307f15E0e5049",
+      "chainId": 56,
+      "decimals": 0,
+      "isWhitelisted": false,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xBc7d6B50616989655AfD682fb42743507003056D.png"
+    }
+  ]
+}
